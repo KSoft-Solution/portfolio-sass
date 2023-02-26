@@ -1,0 +1,15 @@
+{
+  "name": "css_designs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass --watch dist/scss/main.scss dist/css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.58.3"
+  }
+}
